@@ -48,7 +48,7 @@ spotify-ui-clone/
 │
 ├── assets/
 │
-└── Project Preview/
+└── PREVIEW/
     ├── PREVIEW_1.png
     ├── PREVIEW_2.png
     ├── RESPONSIVE_PREVIEW_1.png
