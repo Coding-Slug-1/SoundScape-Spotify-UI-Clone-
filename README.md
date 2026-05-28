@@ -64,17 +64,17 @@ spotify-ui-clone/
 ```md
 ## Desktop View
 
-![Desktop Preview 1](./Project%20Preview/PREVIEW_1.png)
+![Desktop Preview 1](./PREVIEW/PREVIEW_1.png)
 
-![Desktop Preview 2](./Project%20Preview/PREVIEW_2.png)
+![Desktop Preview 2](./PREVIEW/PREVIEW_2.png)
 
 ---
 
 ## Responsive Mobile View
 
-![Responsive Preview 1](./Project%20Preview/RESPONSIVE_PREVIEW_1.png)
+![Responsive Preview 1](./PREVIEW/RESPONSIVE_PREVIEW_1.png)
 
-![Responsive Preview 2](./Project%20Preview/RESPONSIVE_PREVIEW_2.png)
+![Responsive Preview 2](./PREVIEW/RESPONSIVE_PREVIEW_2.png)
 ```
 
 ---
